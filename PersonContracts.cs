@@ -21,7 +21,7 @@ namespace cCont4
             get
             {
                 return default(int);
-                Console.Write("xxyy");
+                Console.Write("xx");
             }
             set
             {
